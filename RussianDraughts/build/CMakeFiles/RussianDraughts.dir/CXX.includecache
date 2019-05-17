@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/JohnsonJohnson/Documents/XcodeProjects/RussianDraughts/RussianDraughts/Board.cpp
+stdio.h
+-
+vector
+-
+iostream
+-
+
+/Users/JohnsonJohnson/Documents/XcodeProjects/RussianDraughts/RussianDraughts/Game.cpp
+stdio.h
+-
+Board.cpp
+/Users/JohnsonJohnson/Documents/XcodeProjects/RussianDraughts/RussianDraughts/Board.cpp
+Piece.cpp
+/Users/JohnsonJohnson/Documents/XcodeProjects/RussianDraughts/RussianDraughts/Piece.cpp
+unordered_map
+-
+
+/Users/JohnsonJohnson/Documents/XcodeProjects/RussianDraughts/RussianDraughts/Piece.cpp
+stdio.h
+-
+
+/Users/JohnsonJohnson/Documents/XcodeProjects/RussianDraughts/RussianDraughts/main.cpp
+iostream
+-
+Game.cpp
+/Users/JohnsonJohnson/Documents/XcodeProjects/RussianDraughts/RussianDraughts/Game.cpp
+

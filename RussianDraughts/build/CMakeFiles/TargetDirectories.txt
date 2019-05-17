@@ -1,0 +1,3 @@
+/Users/JohnsonJohnson/Documents/XcodeProjects/RussianDraughts/RussianDraughts/build/CMakeFiles/edit_cache.dir
+/Users/JohnsonJohnson/Documents/XcodeProjects/RussianDraughts/RussianDraughts/build/CMakeFiles/rebuild_cache.dir
+/Users/JohnsonJohnson/Documents/XcodeProjects/RussianDraughts/RussianDraughts/build/CMakeFiles/RussianDraughts.dir
